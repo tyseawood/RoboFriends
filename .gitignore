@@ -5,6 +5,21 @@
 /.pnp
 .pnp.js
 
+#User-specific
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+#Gradle and Maven with auto-import
+.idea/modules.xml
+.idea/**/*.iml
+.idea/modules
+.idea/prettier.xml
+*.iml
+*.ipr
+
 # testing
 /coverage
 
